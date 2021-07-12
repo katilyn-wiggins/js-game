@@ -2,6 +2,7 @@
 
 
 //notes about dom manipulation
+
 // const body = document.body;
 // body.append('Hello World');
 //with appendchild you can only append elements and one thing at a time
